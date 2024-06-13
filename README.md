@@ -1,4 +1,4 @@
-#My awesome project
+## My awesome project
 
 This project is awesome in the sense that it is awesome indeed
 
